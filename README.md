@@ -8,26 +8,45 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=+Glad+You+Found+Me!;+Welcome+To+My+GitHub+Profile!" />
 </p>
+<table>
+<tr>
+<td width="55%" valign="top">
 
+# 💫 About Me
 
+🎓 Computer Science student passionate about Software Engineering & Data Science
+
+🚀 Exploring Machine Learning, Data Analytics and intelligent systems
+
+💡 Building projects that solve real-world problems
+
+🤝 Open to collaborations, internships and learning opportunities
+
+⚡ Fun Fact: I enjoy turning ideas into practical solutions through code.
+
+</td>
+
+<td width="45%" valign="top">
 
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="your-linkedin-link">
-<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
+<a href="jemimah-mumo">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br>
 
 <a href="mailto:jemimahmumo45@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="35"/>
-</a>
-
-<a href="your-instagram-link">
-<img src="https://skillicons.dev/icons?i=instagram" width="35"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
+</td>
+</tr>
+</table>
 
 # 💻 Tech Stack
 
