@@ -1,16 +1,94 @@
-## Hi there 👋
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!--
-**Mumo-09/Mumo-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Kache
 
-Here are some ideas to get you started:
+WELCOME TO MY GITHUB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Typing Animation]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🙋 About Me
+
+• 🎓 Computer Science major
+• 💻 Data Science 
+• 🌱 Currently learning Machine Learning and Cloud Computing
+• 🤝 Open to internships and collaborations
+• ⚡ Fun fact: I enjoy building projects that solve real-world problems.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠 Tech Stack
+
+Programming Languages
+Python • Java • JavaScript • SQL
+
+Database
+MySQL • SQLite
+
+Data Science
+Pandas • NumPy • Matplotlib • Scikit-learn 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ Tools & Technologies
+
+Git
+GitHub
+VS Code
+IntelliJ IDEA
+Figma
+Canva
+Linux
+Postman
+Jupyter Notebook
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+(Language Card)
+
+(Overall Stats)
+
+(Streak)
+
+(Activity Graph)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 GitHub Trophies
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 Featured Projects
+
+🤖 WhatsApp FAQ Assistant
+
+📊 Commonwealth Bank Data Analysis
+
+🔒 Data Anonymisation Project
+
+🎨 UI/UX Designs
+
+☕ Java Applications
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 Connect With Me
+
+LinkedIn
+
+Email
+
+Portfolio
+
+Twitter (optional)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👀 Profile Views
+
+Visitor Counter
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
