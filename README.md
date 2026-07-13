@@ -13,10 +13,20 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="jemimah-mumo-1a054a385"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:jemimahmumo45@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="gray_sta.r"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<p align="center">
+
+<a href="your-linkedin-link">
+<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
+</a>
+
+<a href="mailto:jemimahmumo45@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="35"/>
+</a>
+
+<a href="your-instagram-link">
+<img src="https://skillicons.dev/icons?i=instagram" width="35"/>
+</a>
+
 </p>
 
 # 💻 Tech Stack
