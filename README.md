@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=✨+Glad+You+Found+Me!;👋+Welcome+To+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=+Glad+You+Found+Me!;+Welcome+To+My+GitHub+Profile!" />
 </p>
 ---
 
 # 💫 About Me
 
-🎓 Computer Science student passionate about Software Engineering & Data Science
+🎓 Computer Science student Data Science
 
-📊 Exploring Machine Learning, Data Analytics and intelligent systems
+📊 Data Science
 
 💡 Building projects that transform ideas into practical solutions
 
@@ -38,26 +38,30 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 Programming Languages
+# 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+## 👨‍💻 Programming Languages
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 
-### 📊 Data Science & Machine Learning
+## 📊 Data Science & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
+<p align="left">
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
@@ -95,23 +99,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mumo-09&theme=tokyonight&hide_border=true)
 
 ---
+<h2 align="center">💡 Developer Philosophy</h2>
 
-# 📈 Contribution Graph
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:00C2FF,100:6A5ACD&text=You%20don't%20train%20a%20neural%20network...%20%F0%9F%A4%96&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+</p>
 
-[![YOUR Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mumo-09&theme=tokyo-night)](https://github.com/Mumo-09)
-
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Mumo-09/Mumo-09/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 💡 Quote
-
-> *"You don't train a neural network. You let it struggle, fail, adapt, and repeat—until its failures look like intelligence."— Emmimal P. Alexander."*
-
+<p align="center">
+  <i>
+  "You don't train a neural network. You let it struggle, fail, adapt, and repeat—until its failures look like intelligence."
+  <br><br>
+  — Emmimal P. Alexander
+  </i>
+</p>
 ---
 
 <p align="center">
