@@ -8,14 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=✨+Glad+You+Found+Me!;👋+Welcome+To+My+GitHub+Profile!" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:00C2FF,100:6A5ACD&text=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:00C2FF,100:6A5ACD&text=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
-</p>
-
 ---
 
 # 💫 About Me
@@ -87,12 +79,10 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=intellij"/>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=figma"/>
 <img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=postman"/>
 <img src="https://skillicons.dev/icons?i=sqlite"/>
 </p>
 
@@ -100,33 +90,15 @@
 </tr>
 </table>
 
-# 📈 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true)
-
----
-
 # 🔥 GitHub Streak
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mumo-09&theme=tokyonight&hide_border=true)
 
 ---
 
-# 📊 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mumo-09&theme=tokyonight&layout=compact&hide_border=true)
-
----
-
 # 📈 Contribution Graph
 
 [![YOUR Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mumo-09&theme=tokyo-night)](https://github.com/Mumo-09)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Mumo-09&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
 
 ---
 
@@ -138,7 +110,7 @@
 
 # 💡 Quote
 
-> *"Code. Learn. Build. Repeat."*
+> *"You don't train a neural network. You let it struggle, fail, adapt, and repeat—until its failures look like intelligence."— Emmimal P. Alexander."*
 
 ---
 
