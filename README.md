@@ -1,26 +1,32 @@
 <p align="center">
   <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-    Hi, I'm Kache
+    Hi, I'm Jemimah
   </h1>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=✨+Glad+You+Found+Me!;👋+Welcome+To+My+GitHub+Profile!" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:00C2FF,100:6A5ACD&text=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:00C2FF,100:6A5ACD&text=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Computer Science major
+🎓 Computer Science student passionate about Software Engineering & Data Science
 
-🚀 Working on exciting Data Science and ML projects
+📊 Exploring Machine Learning, Data Analytics and intelligent systems
 
-🤝 Open to collaborations and internship opportunities
+💡 Building projects that transform ideas into practical solutions
 
-⚡ Fun Fact: I enjoy building projects that solve real-world problems.
+🤝 Open to collaborations, internships and learning opportunities
 
 ---
 
@@ -36,7 +42,11 @@
 
 # 💻 Tech Stack
 
-### Programming Languages
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
@@ -47,15 +57,8 @@
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-</p>
-
-### Data Science
+### 📊 Data Science & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
@@ -65,12 +68,24 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
----
 
-# 🛠️ Tools & Technologies
+</td>
+
+
+<td width="50%" valign="top">
+
+### 🚀 Frameworks & Libraries
 
 <p>
+<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+</p>
 
+
+### 🛠️ Tools & Platforms
+
+<p>
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://skillicons.dev/icons?i=intellij"/>
 <img src="https://skillicons.dev/icons?i=git"/>
@@ -79,9 +94,11 @@
 <img src="https://skillicons.dev/icons?i=linux"/>
 <img src="https://skillicons.dev/icons?i=postman"/>
 <img src="https://skillicons.dev/icons?i=sqlite"/>
-
 </p>
 
+</td>
+</tr>
+</table>
 
 # 📈 GitHub Analytics
 
