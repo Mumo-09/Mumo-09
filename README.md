@@ -8,27 +8,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=+Glad+You+Found+Me!;+Welcome+To+My+GitHub+Profile!" />
 </p>
-<table>
-<tr>
-<td width="55%" valign="top">
 
-# 💫 About Me
-
-🎓 Computer Science student passionate about Software Engineering & Data Science
-
-🚀 Exploring Machine Learning, Data Analytics and intelligent systems
-
-💡 Building projects that solve real-world problems
-
-🤝 Open to collaborations, internships and learning opportunities
-
-⚡ Fun Fact: I enjoy turning ideas into practical solutions through code.
-
-</td>
-
-<td width="45%" valign="top">
-
-# 🌐 Connect With Me
+# 🌐Socials  
 
 <p align="center">
 
