@@ -20,7 +20,6 @@
 
 🤝 Open to collaborations, internships and learning opportunities
 
----
 
 # 🌐 Connect With Me
 
@@ -29,8 +28,6 @@
 <a href="mailto:jemimahmumo45@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="gray_sta.r"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
-
----
 
 # 💻 Tech Stack
 
@@ -70,24 +67,29 @@
 
 <td width="50%" valign="top">
 
-### 🚀 Frameworks & Libraries
+# 🛠️ Frameworks, Libraries & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+## 🚀 Frameworks & Libraries
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
 </p>
 
 
-### 🛠️ Tools & Platforms
+## 🛠️ Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=figma"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=sqlite"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 </td>
@@ -102,23 +104,19 @@
 <h2 align="center">💡 Developer Philosophy</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:00C2FF,100:6A5ACD&text=You%20don't%20train%20a%20neural%20network...%20%F0%9F%A4%96&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <p align="center">
   <i>
-  "You don't train a neural network. You let it struggle, fail, adapt, and repeat—until its failures look like intelligence."
-  <br><br>
-  — Emmimal P. Alexander
+    "You don't train a neural network. You let it struggle, fail, adapt, and repeat—
+    until its failures look like intelligence."
   </i>
-</p>
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mumo-09&label=Profile+Views&color=0e75b6&style=flat" />
+  <br>
+  <b>— Emmimal P. Alexander</b>
 </p>
 
----
+
 
 <p align="center">
 
