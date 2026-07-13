@@ -8,17 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=+Glad+You+Found+Me!;+Welcome+To+My+GitHub+Profile!" />
 </p>
----
 
-# 💫 About Me
-
-🎓 Computer Science student Data Science
-
-📊 Data Science
-
-💡 Building projects that transform ideas into practical solutions
-
-🤝 Open to collaborations, internships and learning opportunities
 
 
 # 🌐 Connect With Me
@@ -34,8 +24,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
-# 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
 
@@ -67,19 +55,6 @@
 
 <td width="50%" valign="top">
 
-# 🛠️ Frameworks, Libraries & Tools
-
-## 🚀 Frameworks & Libraries
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-</p>
-
-
 ## 🛠️ Development Tools
 
 <p align="left">
@@ -100,12 +75,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mumo-09&theme=tokyonight&hide_border=true)
 
----
-<h2 align="center">💡 Developer Philosophy</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 <p align="center">
   <i>
