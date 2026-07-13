@@ -1,7 +1,13 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm YOUR NAME
+<p align="center">
+  <h1 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Hi, I'm Kache
+  </h1>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+Science+Enthusiast;AI+Developer;Backend+Developer;Always+Learning+New+Things🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=✨+Glad+You+Found+Me!;👋+Welcome+To+My+GitHub+Profile!" />
+</p>
 </p>
 
 ---
@@ -9,8 +15,6 @@
 # 💫 About Me
 
 🎓 Computer Science major
-
-💻 Passionate about Artificial Intelligence, Data Science & Machine Learning
 
 🚀 Working on exciting Data Science and ML projects
 
@@ -23,8 +27,9 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="jemimah-mumo-1a054a385"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:jemimahmumo45@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="gray_sta.r"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 ---
@@ -58,8 +63,8 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
-
 ---
 
 # 🛠️ Tools & Technologies
@@ -86,39 +91,31 @@
 
 # 🔥 GitHub Streak
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mumo-09&theme=tokyonight&hide_border=true)
 
 ---
 
 # 📊 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mumo-09&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
 # 📈 Contribution Graph
 
-[![YOUR Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![YOUR Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mumo-09&theme=tokyo-night)](https://github.com/Mumo-09)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=Mumo-09&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
 
 ---
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 📚 Currently Learning
-
-- Machine Learning
-- Artificial Intelligence
-- Data Engineering
+![Snake animation](https://github.com/Mumo-09/Mumo-09/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -129,7 +126,7 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Mumo-09&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
