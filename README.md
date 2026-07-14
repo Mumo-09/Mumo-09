@@ -1,31 +1,33 @@
-<p align="center">
-  <h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-    Hi, I'm Kache
-  </h1>
-</p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Kache
+  <br>
+  <sub>
+    <b>Passionate Data Scientist • AI & Machine Learning Explorer</b>
+  </sub>
+</h1>
 
 <p align="center">
-  <h3>
-    Passionate Data Scientist | Machine Learning Enthusiast | Problem Solver
-  </h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=✨+Glad+You+Found+Me!" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=✨+Glad+You+Found+Me!;👋+Welcome+To+My+GitHub+Profile!" />
 </p>
-# 🌐Socials  
-
 <p align="center">
 
-<a href="jemimah-mumo">
+<b>📬 Reach me at:</b>
+
+<a href="your-linkedin-link">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br>
-
 <a href="mailto:jemimahmumo45@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="your-instagram-link">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
