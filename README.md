@@ -1,14 +1,19 @@
 <p align="center">
   <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-    Hi, I'm Jemimah
+    Hi, I'm Kache
   </h1>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=+Glad+You+Found+Me!;+Welcome+To+My+GitHub+Profile!" />
+  <h3>
+    Passionate Data Scientist | Machine Learning Enthusiast | Problem Solver
+  </h3>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=✨+Glad+You+Found+Me!;👋+Welcome+To+My+GitHub+Profile!" />
+</p>
 # 🌐Socials  
 
 <p align="center">
