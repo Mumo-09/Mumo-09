@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm Kache
+  Hi, I'm Jemimah
   <br>
   <sub>
     <b>Passionate Data Scientist • AI & Machine Learning Explorer</b>
@@ -9,10 +9,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=✨+Glad+You+Found+Me!" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=✨+Glad+You+Found+Me!;👋+Welcome+To+My+GitHub+Profile!" />
 </p>
 <p align="center">
 
@@ -36,13 +32,13 @@
 </tr>
 </table>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 <p align="left">
 
@@ -56,7 +52,7 @@
 </p>
 
 
-## 📊 Data Science & Machine Learning
+### 📊 Data Science & Machine Learning
 
 <p align="left">
 
@@ -72,7 +68,7 @@
 
 <td width="50%" valign="top">
 
-## 🛠️ Development Tools
+### 🛠️ Development Tools
 
 <p align="left">
 
@@ -88,7 +84,7 @@
 </tr>
 </table>
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mumo-09&theme=tokyonight&hide_border=true)
 
