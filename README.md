@@ -6,12 +6,6 @@
     <b>Passionate Data Scientist • AI & Machine Learning Explorer</b>
   </sub>
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=✨+Glad+You+Found+Me!" />
-</p>
-<p align="center">
-
 <b>📬 Reach me at:</b>
 
 <a href="www.linkedin.com/in/jemimah-mumo-1a054a385">
